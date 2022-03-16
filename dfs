@@ -1,0 +1,53 @@
+[33mcommit 08aa4f0050fde6838ce1b1ba089fe9b8546593b5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Rafael Cavallin <rafael_cavallin@hotmail.com>
+Date:   Tue Mar 15 21:43:49 2022 -0300
+
+    Alterações nos arquivos a.txt e teste.txt
+
+[33mcommit 1e699a12590d4440f1f473ae9501ce4c1f704410[m
+Author: Rafael Cavallin <rafael_cavallin@hotmail.com>
+Date:   Sat Mar 12 19:45:31 2022 -0300
+
+    Deletando arquivo b.txt
+
+[33mcommit a95cd67da806a0456ae9c6ccf04ab60f378d1ef4[m
+Author: Rafael Cavallin <rafael_cavallin@hotmail.com>
+Date:   Sat Mar 12 19:25:34 2022 -0300
+
+    Deletando arquivo desnecessario.
+
+[33mcommit 890439c83ed14affe41b7c5950ae0c993431304f[m
+Author: Rafael Cavallin <rafael_cavallin@hotmail.com>
+Date:   Fri Mar 11 22:11:51 2022 -0300
+
+    Enviado arquivo para o clone.
+
+[33mcommit 5c73916a01483e9097f746367acdae781c15ff35[m
+Author: Rafael Cavallin <rafael_cavallin@hotmail.com>
+Date:   Fri Mar 11 22:02:19 2022 -0300
+
+    Update a.txt
+
+[33mcommit 1ed1321072e76e2b02b42488fd2e6d57d38bf523[m
+Author: Rafael Cavallin <rafael_cavallin@hotmail.com>
+Date:   Fri Mar 11 22:00:41 2022 -0300
+
+    Create about.html
+
+[33mcommit e5ff3b2dd95803bb6cb8cf0150d13d6c05e2d175[m
+Author: Rafael Cavallin <rafael_cavallin@hotmail.com>
+Date:   Fri Mar 11 21:53:48 2022 -0300
+
+    Enviando todos os aruqivos
+
+[33mcommit 35efc1af0940b4292699afb4e6b5302a104d5237[m
+Author: Rafael Cavallin <rafael_cavallin@hotmail.com>
+Date:   Fri Mar 11 21:51:59 2022 -0300
+
+    Enviando somente o arquivo a.txt
+
+[33mcommit 1a0ff0d355dff17b160c4e80c2fe9a49036dedf4[m[33m ([m[1;32mall[m[33m)[m
+Author: Rafael Cavallin <rafael_cavallin@hotmail.com>
+Date:   Fri Mar 11 21:26:25 2022 -0300
+
+    Hello World Git
